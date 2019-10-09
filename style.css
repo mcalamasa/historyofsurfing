@@ -1,0 +1,11 @@
+h1 {
+  font-family: comic sans ms;
+}
+
+body{
+  background-image: url("https://www.snopes.com/tachyon/2015/07/gorgeous-sunset.jpg?resize=600,402");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: ivory;
+  font-family: bad script ;
+}
